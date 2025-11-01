@@ -1,0 +1,5 @@
+#Tue Feb 11 09:19:13 PST 2025
+minlight=0.008
+morningFog=true
+uFogDensity=200.0
+wFogDensity=300.0

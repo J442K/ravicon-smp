@@ -1,0 +1,4 @@
+#Thu Mar 27 05:14:29 PDT 2025
+fog_coefficientMieR=10.0
+fog_coefficientMieB=10.0
+fog_coefficientMieG=10.0
